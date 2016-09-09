@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SocketTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect">连接服务器</string>
+    <string name="stopconnect">停止</string>
+    <string name="defaultLog">服务器日志</string>
+    <string name="begain">正在连接服务器</string>
+    <string name="success">连接成功</string>
+    <string name="send">发送</string>   
+    <string name="clear">清空</string>
+
+</resources>
